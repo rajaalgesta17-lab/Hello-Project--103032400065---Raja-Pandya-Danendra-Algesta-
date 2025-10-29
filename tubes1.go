@@ -1,3 +1,5 @@
+//INI KOMENTAR DARI AKU >=<
+
 package main
 
 import (
